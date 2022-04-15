@@ -18,7 +18,9 @@ function Home() {
             </Link>
         </div>
         <div className="flex items-center space-x-5 text-blue-600">
-            <h3>Home</h3>
+            <Link href="/">
+                <h3 className="cursor-pointer">Home</h3>
+            </Link>
             <Link href="card">
                 <h3 className="cursor-pointer">Cards</h3>
             </Link>
