@@ -15,7 +15,7 @@ export default function Header() {
                 <Link href="card">
                     <h3 className="cursor-pointer text-white">Cards</h3>
                 </Link>
-                <h3 className="border px-4 py-1 rounded-full text-white">Get Started</h3>
+                <h3 className="text-white cursor-pointer">Get Started</h3>
             </div>
         </header>
     )
