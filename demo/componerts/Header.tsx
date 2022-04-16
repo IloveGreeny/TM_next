@@ -8,7 +8,7 @@ export default function Body() {
                 <Link href="card">
                     <img
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiS2RF6QI1BAp_uZhTXosG_dMYWw5I5SqplLchE0rRyQ2EGvfiKmo8YuQvb7-Angj2wl4&usqp=CAU"
-                        alt="" className="w-2/3 cursor-pointer min-h-screen py-10  px-80"/>
+                        alt="" className="flex-grow h-screen pb-44 pt-6 px-44"/>
                 </Link>
             </div>
         </div>
