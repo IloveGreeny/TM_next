@@ -1,5 +1,7 @@
 export default function Card() {
     return(
-        <div>HKJIHJO;A</div>
+        <div>
+            Cards
+        </div>
     )
 }
