@@ -10,6 +10,7 @@ export default function Card() {
                     alt=""
                     className="cursor-pointer"/>
             </Link>
+            <h1 className="bg-blue-400">Lms;</h1>
         </div>
     )
 }
