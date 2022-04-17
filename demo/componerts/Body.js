@@ -25,10 +25,7 @@ export default function Body() {
                             Mauris imperdiet ullamcorper velit, vel rutrum ex placerat eget. Donec vitae lorem accumsan, imperdiet felis semper, vehicula elit. Integer ante lorem, venenatis id ex sed, auctor eleifend risus. Pellentesque sit amet bibendum mauris. Donec volutpat suscipit turpis eu iaculis. Pellentesque mattis non felis nec volutpat. Nullam gravida et velit non bibendum. Proin bibendum erat nunc, eget sodales mauris porttitor vitae. Etiam eget felis at leo semper viverra. Cras cursus vehicula mauris, et scelerisque nibh consectetur nec. Sed feugiat quam eget velit ultrices consequat. Praesent et ipsum ligula. Sed ac finibus orci. Cras enim risus, cursus et porta ut, venenatis nec purus. Sed purus diam, convallis nec enim eget, consequat rutrum lacus.
                             </p>
                     </blockquote>
-                    <figcaption className="font-medium">
-                    </figcaption>
                 </div>
-
             </div>
         </div>
     )
